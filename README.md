@@ -1,6 +1,12 @@
-# First Time Setup
 
-## Using Pipenv 
+
+
+
+
+
+# First Time Setup
+ 
+#Create a .env file inside of langchain-project folder.
 
 # Install dependencies
 pipenv install

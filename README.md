@@ -7,6 +7,20 @@
 # First Time Setup
  
 #Create a .env file inside of langchain-project folder.
+inside this file write:
+SECRET_KEY=[Define a powerful key]
+SQLALCHEMY_DATABASE_URI=sqlite:///sqlite.db
+UPLOAD_URL=http://localhost:8050
+OPENAI_API_KEY=[Your OpenAI API Key]
+REDIS_URI=[Your Redis URI]
+
+PINECONE_API_KEY=[Your Piecone API KEY]
+PINECONE_ENV_NAME=[Your Pinecone Region Name]
+PINECONE_INDEX_NAME=[index name]
+
+LANGFUSE_PUBLIC_KEY=
+LANGFUSE_SECRET_KEY=
+PYTHONIOENCODEING=utf-8
 
 # Install dependencies
 pipenv install

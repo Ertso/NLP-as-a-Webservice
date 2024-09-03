@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "56eeeb067dd1b1fede3306bd0ecd681dbfbd2b90a5e6762a532357193cd99372"
+            "sha256": "7ac977689378f32bc190e842d15c18ff341a2f9df9ebc3037ee04a92ac9e21a7"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -45,12 +45,12 @@
         },
         "flask": {
             "hashes": [
-                "sha256:21128f47e4e3b9d597a3e8521a329bf56909b690fcc3fa3e477725aa81367638",
-                "sha256:cfadcdb638b609361d29ec22360d6070a77d7463dcb3ab08d2c2f2f168845f58"
+                "sha256:34e815dfaa43340d1d15a5c3a02b8476004037eb4840b34910c6e21679d288f3",
+                "sha256:ceb27b0af3823ea2737928a4d99d125a06175b8512c445cbd9a9ce200ef76842"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==3.0.0"
+            "version": "==3.0.3"
         },
         "flask-cors": {
             "hashes": [
@@ -71,12 +71,12 @@
         },
         "jinja2": {
             "hashes": [
-                "sha256:31351a702a408a9e7595a8fc6150fc3f43bb6bf7e319770cbc0db9df9437e852",
-                "sha256:6088930bfe239f0e6710546ab9c19c9ef35e29792895fed6e6e31a023a182a61"
+                "sha256:4a3aee7acbbe7303aede8e9648d13b8bf88a429282aa6122a993f0ac800cb369",
+                "sha256:bc5dd2abb727a5319567b7a813e6a2e7318c39f4f487cfe6c89c6f9c7d25197d"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.7'",
-            "version": "==3.1.2"
+            "version": "==3.1.4"
         },
         "markupsafe": {
             "hashes": [
@@ -147,12 +147,12 @@
         },
         "werkzeug": {
             "hashes": [
-                "sha256:507e811ecea72b18a404947aded4b3390e1db8f826b494d76550ef45bb3b1dcc",
-                "sha256:90a285dc0e42ad56b34e696398b8122ee4c681833fb35b8334a095d82c56da10"
+                "sha256:097e5bfda9f0aba8da6b8545146def481d06aa7d3266e7448e2cccf67dd8bd18",
+                "sha256:fc9645dc43e03e4d630d23143a04a7f947a9a3b5727cd535fdfe155a17cc48c8"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==3.0.1"
+            "version": "==3.0.3"
         }
     },
     "develop": {}
